@@ -1,7 +1,10 @@
+import { Banner,Counts, Navbar } from "./"
 export const HomePage = () =>{
     return(
         <>
-        <p className="">working</p>
+       <Navbar/>
+       <Banner/>
+       <Counts/>
         </>
     )
 
