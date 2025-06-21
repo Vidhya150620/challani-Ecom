@@ -1,10 +1,12 @@
-import { Banner,Counts, Navbar } from "./"
+import { Banner,Counts, Navbar,ShopByVideo,Favorites } from "./"
 export const HomePage = () =>{
     return(
         <>
        <Navbar/>
        <Banner/>
        <Counts/>
+       <ShopByVideo />
+       <Favorites />
         </>
     )
 
