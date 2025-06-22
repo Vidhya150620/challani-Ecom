@@ -3,7 +3,7 @@ export const Banner = () => {
   return (
     <>
       <main className="w-full h-full">
-        <img src={banner}  />
+        <img src={banner}  className="w-full"/>
       </main>
     </>
   );

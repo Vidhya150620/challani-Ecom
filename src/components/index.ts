@@ -4,3 +4,11 @@ export * from "./Banner";
 export * from "./Counts";
 export * from "./ShopByVideo";
 export * from "./favorites";
+export * from "./HandpickedCollection";
+export * from "./ShopByoccasion";
+export * from "./ShopByCollections";
+export * from "./ShopByCategory";
+export * from "./BestSellers";
+export * from "./Footer";
+export * from "./HearFronThem";
+export * from "./NavbarTop"
